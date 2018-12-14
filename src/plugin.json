@@ -1,0 +1,17 @@
+{
+  "type": "panel",
+  "name": "Separator",
+  "id": "mx-separator-panel",
+  "info": {
+    "description": "it just works",
+    "author": {
+      "name": "Massimo \"Mx\" Cacciapaglia",
+      "url": ""
+    },
+    "logos": {
+      "small": "img/icn-table-panel.svg",
+      "large": "img/icn-table-panel.svg"
+    },
+    "version": "5.0.0"
+  }
+}
