@@ -3,7 +3,7 @@
 import { PanelCtrl } from 'app/plugins/sdk';
 
 class TablePanelCtrl extends PanelCtrl {
-  static templateUrl = 'public/plugins/mx-separator-panel/module.html';
+  static templateUrl = 'public/plugins/mxswat-separator-panel/module.html';
 
   /** @ngInject */
   constructor($scope, $injector) {

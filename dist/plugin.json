@@ -1,7 +1,7 @@
 {
   "type": "panel",
   "name": "Separator",
-  "id": "mx-separator-panel",
+  "id": "mxswat-separator-panel",
   "info": {
     "description": "A simple separator panel",
     "author": {
